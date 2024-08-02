@@ -2,9 +2,9 @@
 Databases Applied 2
 applied2_student.sql
 
-student id:
-student name:
-last modified date:
+student id: 33127247
+student name: Daniel Hua
+last modified date: 02 August 2024
 
 */
 
